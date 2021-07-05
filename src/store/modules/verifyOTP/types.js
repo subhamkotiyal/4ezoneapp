@@ -1,0 +1,3 @@
+export const REQUEST_RESET = 'REQUEST_RESET';
+export const RESET_SUCCESS = 'RESET_SUCCESS';
+export const RESET_FAIL = 'RESET_FAIL';

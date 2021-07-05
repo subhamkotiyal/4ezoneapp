@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "378886663512",
+    "firebase_url": "https://ezonedoctor.firebaseio.com",
+    "project_id": "ezonedoctor",
+    "storage_bucket": "ezonedoctor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378886663512:android:8ade6fdf824d532f47092d",
+        "android_client_info": {
+          "package_name": "com.fourezonedoctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378886663512-gl8rd1a9oipir7jvrhc6vgmqur9ffajn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpHGSz9gxlYe4cqo3uQ4EX3qjVP6HB9lw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378886663512-gl8rd1a9oipir7jvrhc6vgmqur9ffajn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "378886663512-kmd3f3h801jhhjrik0df3p0q191joveq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fourezonedoctor"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
